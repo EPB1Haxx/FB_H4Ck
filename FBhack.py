@@ -1,3 +1,5 @@
+##CODEDBYBJORNx
+##MADEwithLOVE
 import os
 import requests
 from concurrent.futures import ThreadPoolExecutor
@@ -1323,16 +1325,16 @@ def menu():
   print("")
 print("\033[1;31;36m__________________________________________________________")
 print("")
-print("\033[1;31;40m-----------FACEBOOK HACKING TOOL V1 2024--------made by BJORNx---------------------")
+print("\033[1;31;40m-----------FACEBOOK HACKING TOOL V1 2024----made by BJORNx---------------------")
 print("\033[1;31;36m__________________________________________________________")
-input("\033[0;31;40m PRESS ENTER:")
+input("\033[0;31;40m YOUR FILE PATH:")
 print("\033[1;31;36m_____________________________________________________")
-input("\033[0;31;40m PRESS ENTER AGAIN:")
+input("\033[0;31;40m METHOD:")
 print("\033[1;31;36m________________________________________________")
-input("\033[0;31;40m PLEASE TYPE YES TO START HACKINNG:")
+input("\033[0;31;40m DO YOU WANT SHOW CP ?:")
 print("\033[1;31;36m___________________________________________")
 print("")
-print("\033[0;31;36m WAIT FOR A WHILE! HACKING TOOL IS IN PROGRESS! ")
+print("\033[0;31;36m ________________________________")
 print("\033[1;32;36m__________________________________________________________")
  
 try:
